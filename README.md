@@ -14,6 +14,8 @@ Preferred to run at Google Colab or Kaggle
 
 ## Prerequisites
 
+- Python programming language installed
+
 Ensure you have the following libraries installed:
 - `numpy` and `pandas` for data handling
 - `tensorflow` for deep learning capabilities
